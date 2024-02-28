@@ -1,0 +1,35 @@
+[
+  {
+    "id": "a287d2a6-d0f3-4885-9ddd-026b0c22db21",
+    "title": "Producto de prueba 1",
+    "description": "Probando post con postman 1",
+    "price": 150,
+    "thumbnail": "./assests/POSTMAN1.jpg",
+    "code": "mt1",
+    "stock": 4,
+    "status": true,
+    "category": "Prueba"
+  },
+  {
+    "id": "69fa9a47-b510-4538-a84c-cd49a4859cbc",
+    "title": "Producto actualizado de postman",
+    "description": "Probando post con postman",
+    "price": 400,
+    "thumbnail": "./assests/POSTMAN1.jpg",
+    "code": "mt17",
+    "stock": 0,
+    "status": "true",
+    "category": "Prueba"
+  },
+  {
+    "id": "db501269-ce17-4a12-845d-96c8a85f8e44",
+    "title": "Producto de prueba 4",
+    "description": "Probando post con postman 4",
+    "price": 150,
+    "thumbnail": "./assests/POSTMAN1.jpg",
+    "code": "mt4",
+    "stock": 4,
+    "status": true,
+    "category": "Prueba"
+  }
+]
